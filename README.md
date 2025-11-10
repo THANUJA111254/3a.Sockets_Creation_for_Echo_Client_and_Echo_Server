@@ -50,10 +50,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
     print(f"Received echo: {data.decode('utf-8')}")
 ```
 ## OUTPUT:
-<img width="1115" height="610" alt="image" src="https://github.com/user-attachments/assets/b4ef782a-e201-483e-8287-a6741667e4c9" />
-
-
-
+<img width="582" height="270" alt="image" src="https://github.com/user-attachments/assets/4e3fc463-b4bd-4381-a380-a15f855bb766" />
 
 
 <img width="691" height="187" alt="image" src="https://github.com/user-attachments/assets/f9c91f19-5966-4f65-b503-f57f0a80a244" />
